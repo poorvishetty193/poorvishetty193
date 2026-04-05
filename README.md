@@ -1,6 +1,6 @@
 <!-- TOP BANNER -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/poorvishetty193/poorvishetty193/main/assets/banner.png" width="900"/>
+  <img src="https://raw.githubusercontent.com/poorvishetty193/poorvishetty193/main/assets/my.png" width="900"/>
 </p>
 
 <br/>
