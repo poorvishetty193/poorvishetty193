@@ -75,8 +75,3 @@
 </p>
 
 ---
-
-<!-- FOOTER -->
-<p align="center">
-  ⚫ Designed & Built by Poorvi Shetty 🔴
-</p>
