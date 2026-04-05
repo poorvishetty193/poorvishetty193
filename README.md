@@ -53,19 +53,6 @@
 
 ---
 
-<!-- PROJECTS -->
-## 🚀 Featured Projects
-
-### 🧠 Multimodal Lung Cancer Detection
-- CT + Audio + Metadata Analysis  
-- React + FastAPI + ML Models  
-
-### ⚡ BMI Calculator (AI Enhanced)
-- Smart health insights  
-- Clean UI/UX + responsive design  
-
----
-
 <!-- GITHUB STATS -->
 ## 📊 GitHub Stats
 
