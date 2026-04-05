@@ -56,11 +56,9 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=poorvishetty193&show_icons=true&bg_color=000000&title_color=ff0000&text_color=ffffff&icon_color=ff0000" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=poorvishetty193&theme=black-ice&ring=ff0000&fire=ff0000&currStreakLabel=ffffff" />
 </p>
+ 
 
 ---
 
