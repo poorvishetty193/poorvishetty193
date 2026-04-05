@@ -1,7 +1,8 @@
 <!-- TOP BANNER -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/poorvishetty193/poorvishetty193/main/assets/my.png" width="700"/>
-</p>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/poorvishetty193/poorvishetty193/main/assets/my.png" width="720"/>
+</div>
+
 <!-- INTRO -->
 <h1 align="center">Hi 👋 I'm Poorvi Shetty</h1>
 
