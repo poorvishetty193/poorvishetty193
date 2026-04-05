@@ -65,10 +65,10 @@
 ## 📫 Connect with Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/shetty-poorvi">
+  <a href="https://linkedin.com/in/shetty-poorvi">Email Me
     <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=red"/>
   </a>
-  <a href="mailto:shettypoorvi@gmail.com">
+  <a href="mailto:shettypoorvi193@gmail.com">
     <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=red"/>
   </a>
 </p>
