@@ -62,15 +62,6 @@
 
 ---
 
-<!-- CONTRIBUTION GRAPH -->
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=poorvishetty193&bg_color=000000&color=ffffff&line=ff0000&point=ffffff&area=true&hide_border=true"/>
-</p>
-
----
-
 <!-- CONTACT -->
 ## 📫 Connect with Me
 
