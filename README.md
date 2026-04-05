@@ -65,7 +65,7 @@
 ## 📫 Connect with Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/shetty-poorvi">Email Me
+  <a href="https://linkedin.com/in/shetty-poorvi">
     <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=red"/>
   </a>
   <a href="mailto:shettypoorvi193@gmail.com">
