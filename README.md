@@ -1,8 +1,3 @@
-<!-- TOP BANNER -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/poorvishetty193/poorvishetty193/main/assets/my.png" width="720"/>
-</div>
-
 <!-- INTRO -->
 <h1 align="center">Hi 👋 I'm Poorvi Shetty</h1>
 
@@ -13,6 +8,10 @@
 <p align="center">
   ⚫ Design × Code × Impact 🔴
 </p>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/poorvishetty193/poorvishetty193/main/assets/my.png" width="720"/>
+</div>
 
 ---
 
@@ -72,5 +71,3 @@
     <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=red"/>
   </a>
 </p>
-
----
