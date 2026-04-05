@@ -31,7 +31,6 @@
 <p>
   <img src="https://img.shields.io/badge/UI/UX-000000?style=for-the-badge&logo=figma&logoColor=red"/>
   <img src="https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=red"/>
-  <img src="https://img.shields.io/badge/Design Systems-000000?style=for-the-badge&logo=storybook&logoColor=red"/>
 </p>
 
 ### 💻 Development
@@ -66,10 +65,10 @@
 ## 📫 Connect with Me
 
 <p align="center">
-  <a href="https://linkedin.com/">
+  <a href="https://linkedin.com/in/shetty-poorvi">
     <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=red"/>
   </a>
-  <a href="mailto:your-email@gmail.com">
+  <a href="mailto:shettypoorvi@gmail.com">
     <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=red"/>
   </a>
 </p>
